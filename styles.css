@@ -6,7 +6,6 @@
 body{
     height: 100vh;
     width: 100%;
-    border: 1px solid #fd0303;
     display: flex;
     align-items: center;
     justify-content: center;
